@@ -11,7 +11,6 @@ ourPlanetName = "Earth";
 currentUserName = "Olga";
 
 //Task 3
-let a, b;
-a = "10";
-b = 10;
+const a = "10";
+const b = 10;
 console.log(a+b);
