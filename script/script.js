@@ -1,14 +1,12 @@
 "use strict";
 //Task 1
-let admin, name;
-name = "John";
-admin = name;
+const name = "John";
+const admin = name;
 alert(admin);
 
 //Task 2
-let ourPlanetName, currentUserName;
-ourPlanetName = "Earth";
-currentUserName = "Olga";
+const ourPlanetName = "Earth";
+const currentUserName = "Olga";
 
 //Task 3
 const a = "10";
